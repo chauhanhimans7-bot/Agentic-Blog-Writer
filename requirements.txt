@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+pydantic
+groq
+openai
+langchain-core
+langchain-groq
+langchain-tavily
+langgraph
+Pillow
+huggingface_hub
