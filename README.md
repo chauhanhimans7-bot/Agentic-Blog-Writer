@@ -15,9 +15,10 @@
 
 </div>
 
-![Streamlit UI: sidebar, stage tabs and the generated blog preview](docs/ui-markdown-preview.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26800146-f61c-4eed-ac94-0a7915bffb0c" />
 
-![A generated blog with a Pillow-rendered architecture diagram](docs/ui-generated-diagram.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3794de36-031c-45fa-ba7f-8c1a658cd75c" />
+
 
 ---
 
